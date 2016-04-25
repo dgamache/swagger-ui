@@ -21,8 +21,9 @@
     "test": "mocha"
   },
   "repository": {
+    "private": true,
     "type": "git",
-    "url": "https://github.com/swagger-api/swagger-ui.git"
+    "url": "https://github.com/dgamache/swagger-ui.git"
   },
   "readmeFilename": "README.md",
   "devDependencies": {
